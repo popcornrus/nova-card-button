@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\ResetProfit;
+namespace Rustdrop\ResetProfit;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
