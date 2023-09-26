@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Acme\\ResetProfit\\": "src/"
+            "Rustdrop\\ResetProfit\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Acme\\ResetProfit\\CardServiceProvider"
+                "Rustdrop\\ResetProfit\\CardServiceProvider"
             ]
         }
     },
